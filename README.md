@@ -1,2 +1,2 @@
 "# mon-premier-projet" 
-une liste qui sera utile pour pour vos taches quotidinnes
+la liste de courses 
