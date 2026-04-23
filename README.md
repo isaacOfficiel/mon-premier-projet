@@ -28,6 +28,6 @@ Assurez-vous d’avoir Python installé sur votre machine.
 - Sauvegarde automatique dans un fichier JSON
 
 
-Projet réalisé dans le cadre de mon apprentissage de Git et GitHub.
+Projet réalisé dans le cadre de mon apprentissage de python, Git et GitHub.
 
 
