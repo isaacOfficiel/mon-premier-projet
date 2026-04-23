@@ -1,4 +1,4 @@
-# mon-premier-projet
+# python-calculator
 
 ## Description
 
